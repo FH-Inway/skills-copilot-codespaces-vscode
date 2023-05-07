@@ -1,0 +1,10 @@
+{
+    "name": "FH-Inway Codespace for Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Github.copilot"
+            ]
+        }
+    }
+}
